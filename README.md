@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @POde97
-- 👀 I’m interested in cancer biology, network theory, machine learning, physics and math
 - 📫 paoloodeo.o@gmail.com
 
 <!---
